@@ -1,5 +1,6 @@
 {
     "name": "sumish/lib-redbean",
+    "type": "library",
     "description": "This is a library for work with CRUD at database",
     "keywords": ["crud", "database", "db"],
     "license": "MIT",
